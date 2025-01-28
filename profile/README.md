@@ -6,15 +6,15 @@ We enable autonomous management of operating systems and applications at scale t
 
 ## What's inside?
 
-1. 🛠️ [Coras](coras/README.md) - An [open source](https://github.com/mehal-tech/open-coras) Operating System built using [image mode](https://github.com/containers/bootc) and based on [Fedora](https://fedoraproject.org/) 
+1. 🛠️ [Coras](https://docs.mehal.tech/coras/README.md) - An [open source](https://github.com/mehal-tech/open-coras) Operating System built using [image mode](https://github.com/containers/bootc) and based on [Fedora](https://fedoraproject.org/) 
 
-1. 👞 [Brog](brog/README.md) - An [open source](https://github.com/mehal-tech/brog) GitOps client service that manages operating system upgrades and rollbacks
+1. 👞 [Brog](https://docs.mehal.tech/brog/README.md) - An [open source](https://github.com/mehal-tech/brog) GitOps client service that manages operating system upgrades and rollbacks
 
-1. ⚙️ [Amrite](amrite/README.md) - An [open source](https://github.com/mehal-tech/amrite) container runtime with support for WASI and OCI Containers based on [crun](https://github.com/containers/crun) and [podman](https://podman.io/). 
+1. ⚙️ [Amrite](https://docs.mehal.tech/amrite/README.md) - An [open source](https://github.com/mehal-tech/amrite) container runtime with support for WASI and OCI Containers based on [crun](https://github.com/containers/crun) and [podman](https://podman.io/). 
 
-1. 🎛️ [Quadit](quadit/README.md) - An [open source](https://github.com/ubiquitous-factory/quadit) GitOps client service to manage container deployments
+1. 🎛️ [Quadit](https://docs.mehal.tech/quadit/README.md) - An [open source](https://github.com/ubiquitous-factory/quadit) GitOps client service to manage container deployments
 
-1. 🕸 [Clos](clos/README.md) - [Software as a Service](https://mehal.tech/login) to co-ordinate the gitops deployments
+1. 🕸 [Clos](https://docs.mehal.tech/clos/README.md) - [Software as a Service](https://mehal.tech/login) to co-ordinate the gitops deployments
 
 ## We are different because we are composable.
 
